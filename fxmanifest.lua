@@ -1,6 +1,11 @@
 fx_version 'adamant'
 game 'gta5'
 
+lua54 'on'
+
+author 'Zod#8682'
+desc 'Drugs Builder Script ESX x RageUI'
+
 client_scripts{
     "rui/RMenu.lua",
     "rui/menu/RageUI.lua",
